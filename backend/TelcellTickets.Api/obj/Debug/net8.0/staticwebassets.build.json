@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mWtneXgf5qQYSk+3cTz2nG6XQVFYk5GHL5q4XSyXzpg=",
+  "Source": "TelcellTickets.Api",
+  "BasePath": "_content/TelcellTickets.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

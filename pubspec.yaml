@@ -1,0 +1,52 @@
+name: telcell_tickets
+description: Telcell Tickets — мобильное приложение для поиска и покупки билетов в Армении.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  # Шрифт Manrope (скачивается автоматически):
+  google_fonts: ^6.1.0
+  # Динамический QR-билет:
+  qr_flutter: ^4.1.0
+  # Карта событий (OpenStreetMap, без API-ключей):
+  flutter_map: ^6.2.1
+  latlong2: ^0.9.1
+  # HTTP-клиент для C# backend:
+  http: ^1.2.0
+  # Хранение сессии (токен/телефон) между запусками:
+  shared_preferences: ^2.2.2
+  # Локальные push-уведомления (покупка/отмена/перенос), без FCM:
+  flutter_local_notifications: ^17.2.3
+  # Часовой пояс для запланированных уведомлений:
+  timezone: ^0.9.4
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Вариант со скачанным шрифтом (если НЕ используешь google_fonts):
+  # положи файлы Manrope в assets/fonts/ и раскомментируй блок ниже.
+  # fonts:
+  #   - family: Manrope
+  #     fonts:
+  #       - asset: assets/fonts/Manrope-Regular.ttf
+  #         weight: 400
+  #       - asset: assets/fonts/Manrope-Medium.ttf
+  #         weight: 500
+  #       - asset: assets/fonts/Manrope-SemiBold.ttf
+  #         weight: 600
+  #       - asset: assets/fonts/Manrope-Bold.ttf
+  #         weight: 700
+  #       - asset: assets/fonts/Manrope-ExtraBold.ttf
+  #         weight: 800

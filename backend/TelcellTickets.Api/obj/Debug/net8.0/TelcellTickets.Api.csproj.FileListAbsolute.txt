@@ -1,0 +1,212 @@
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\TelcellTickets.Api.exe
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\TelcellTickets.Api.deps.json
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\TelcellTickets.Api.runtimeconfig.json
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\TelcellTickets.Api.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\TelcellTickets.Api.pdb
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.csproj.AssemblyReference.cache
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.AssemblyInfoInputs.cache
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.AssemblyInfo.cs
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.csproj.CoreCompileInputs.cache
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets\msbuild.TelcellTickets.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.TelcellTickets.Api.props
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TelcellTickets.Api.props
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TelcellTickets.Api.props
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\scopedcss\bundle\TelcellTickets.Api.styles.css
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellT.59D02132.Up2Date
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\refint\TelcellTickets.Api.dll
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.pdb
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.genruntimeconfig.cache
+C:\Users\truea\Desktop\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\ref\TelcellTickets.Api.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\TelcellTickets.Api.exe
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\TelcellTickets.Api.deps.json
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\TelcellTickets.Api.runtimeconfig.json
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\TelcellTickets.Api.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\TelcellTickets.Api.pdb
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.AssemblyInfo.cs
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets\msbuild.TelcellTickets.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.TelcellTickets.Api.props
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TelcellTickets.Api.props
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TelcellTickets.Api.props
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\scopedcss\bundle\TelcellTickets.Api.styles.css
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellT.59D02132.Up2Date
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\refint\TelcellTickets.Api.dll
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.pdb
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\TelcellTickets.Api.genruntimeconfig.cache
+C:\Users\David\Downloads\telcell_tickets (2)\telcell_tickets\backend\TelcellTickets.Api\obj\Debug\net8.0\ref\TelcellTickets.Api.dll
+C:\Users\David\AppData\Local\Temp\claude\C--Users-David-Downloads-telcell-tickets\cd9b6992-d04e-46e9-af72-97ea906ad1e4\scratchpad\bkbuild\appsettings.json
+C:\Users\David\AppData\Local\Temp\claude\C--Users-David-Downloads-telcell-tickets\cd9b6992-d04e-46e9-af72-97ea906ad1e4\scratchpad\bkbuild\TelcellTickets.Api.exe
+C:\Users\David\AppData\Local\Temp\claude\C--Users-David-Downloads-telcell-tickets\cd9b6992-d04e-46e9-af72-97ea906ad1e4\scratchpad\bkbuild\TelcellTickets.Api.deps.json
+C:\Users\David\AppData\Local\Temp\claude\C--Users-David-Downloads-telcell-tickets\cd9b6992-d04e-46e9-af72-97ea906ad1e4\scratchpad\bkbuild\TelcellTickets.Api.runtimeconfig.json
+C:\Users\David\AppData\Local\Temp\claude\C--Users-David-Downloads-telcell-tickets\cd9b6992-d04e-46e9-af72-97ea906ad1e4\scratchpad\bkbuild\TelcellTickets.Api.dll
+C:\Users\David\AppData\Local\Temp\claude\C--Users-David-Downloads-telcell-tickets\cd9b6992-d04e-46e9-af72-97ea906ad1e4\scratchpad\bkbuild\TelcellTickets.Api.pdb

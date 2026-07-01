@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import pypdf\")",
+      "Bash(pip show *)",
+      "Bash(pip install *)",
+      "Bash(python -c ' *)",
+      "Bash(flutter --version)",
+      "Bash(dotnet --version)",
+      "Bash(psql --version)",
+      "PowerShell($f=Get-Command flutter -ErrorAction SilentlyContinue; $d=Get-Command dotnet -ErrorAction SilentlyContinue; $p=Get-Command psql -ErrorAction SilentlyContinue; \"flutter: $\\($f.Source\\)\"; \"dotnet: $\\($d.Source\\)\"; \"psql: $\\($p.Source\\)\")"
+    ]
+  }
+}
