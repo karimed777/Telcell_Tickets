@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../l10n/app_strings.dart';
 import '../models/event.dart';
 import '../theme/app_theme.dart';
+import 'seat_shapes.dart';
 
 /// Общие виджеты для шагов покупки (выбор билетов + оплата).
 /// Вынесены сюда, чтобы экраны TicketSelection и Checkout не дублировали код.
@@ -101,6 +102,8 @@ class TicketCounter extends StatelessWidget {
       ),
       child: Row(
         children: [
+          SeatTypeBadge(kind: seatKindForTicketName(tt.name), size: 46),
+          const SizedBox(width: 12),
           Expanded(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
